@@ -13,6 +13,8 @@
     2. Binary Search
 7. DP
     1. Calculate the value till a particular index and keep calculating the next value
+    2. Select and Not Select Everything
+8. Coin Change Problem
 
 <br>
 
